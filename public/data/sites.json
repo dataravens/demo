@@ -1,0 +1,17 @@
+[
+  {
+    "id": "basil-street",
+    "name": "Basil Street Branch",
+    "address": "123 Basil Street, London SW1A 1AA"
+  },
+  {
+    "id": "harley-street",
+    "name": "Harley Street Branch",
+    "address": "45 Harley Street, London W1G 8QH"
+  },
+  {
+    "id": "canary-wharf",
+    "name": "Canary Wharf Branch",
+    "address": "1 Canada Square, London E14 5AB"
+  }
+]

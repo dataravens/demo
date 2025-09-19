@@ -1,0 +1,5 @@
+[
+    { "id":"a1","patientId":"p1","start":"2025-09-11T10:00:00Z","end":"2025-09-11T10:30:00Z","clinician":"Dr Patel","room":"1" },
+    { "id":"a2","patientId":"p2","start":"2025-09-12T09:30:00Z","end":"2025-09-12T10:00:00Z","clinician":"Dr Patel","room":"2" }
+  ]
+  

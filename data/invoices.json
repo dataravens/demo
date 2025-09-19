@@ -1,0 +1,5 @@
+[
+    { "id":"inv-101","patientId":"p1","status":"Overdue","amount":220.0,"dueDate":"2025-09-20","payer":"Bupa" },
+    { "id":"inv-102","patientId":"p2","status":"Draft","amount":145.0,"dueDate":"2025-09-25","payer":"Self-pay" }
+  ]
+  

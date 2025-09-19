@@ -1,0 +1,72 @@
+[
+  {
+    "id": "dr-patel",
+    "name": "Dr Sarah Patel",
+    "title": "Dr",
+    "specialty": "General Practice",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "dr-jones",
+    "name": "Dr Michael Jones",
+    "title": "Dr",
+    "specialty": "Cardiology",
+    "color": "#10B981"
+  },
+  {
+    "id": "dr-smith",
+    "name": "Dr Emily Smith",
+    "title": "Dr",
+    "specialty": "Dermatology",
+    "color": "#F59E0B"
+  },
+  {
+    "id": "dr-wilson",
+    "name": "Dr James Wilson",
+    "title": "Dr",
+    "specialty": "General Practice",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "dr-brown",
+    "name": "Dr Lisa Brown",
+    "title": "Dr",
+    "specialty": "Psychiatry",
+    "color": "#EF4444"
+  },
+  {
+    "id": "dr-taylor",
+    "name": "Dr Robert Taylor",
+    "title": "Dr",
+    "specialty": "Orthopedics",
+    "color": "#06B6D4"
+  },
+  {
+    "id": "nurse-lee",
+    "name": "Sarah Lee",
+    "title": "Nurse",
+    "specialty": "Practice Nurse",
+    "color": "#84CC16"
+  },
+  {
+    "id": "nurse-clark",
+    "name": "James Clark",
+    "title": "Nurse",
+    "specialty": "Practice Nurse",
+    "color": "#F97316"
+  },
+  {
+    "id": "dr-anderson",
+    "name": "Dr Kate Anderson",
+    "title": "Dr",
+    "specialty": "Pediatrics",
+    "color": "#EC4899"
+  },
+  {
+    "id": "dr-martinez",
+    "name": "Dr Carlos Martinez",
+    "title": "Dr",
+    "specialty": "Neurology",
+    "color": "#6366F1"
+  }
+]

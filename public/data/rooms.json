@@ -1,0 +1,52 @@
+[
+  {
+    "siteId": "basil-street",
+    "id": "room-101",
+    "name": "Room 101"
+  },
+  {
+    "siteId": "basil-street",
+    "id": "room-102",
+    "name": "Room 102"
+  },
+  {
+    "siteId": "basil-street",
+    "id": "room-103",
+    "name": "Room 103"
+  },
+  {
+    "siteId": "basil-street",
+    "id": "room-201",
+    "name": "Room 201"
+  },
+  {
+    "siteId": "harley-street",
+    "id": "room-301",
+    "name": "Room 301"
+  },
+  {
+    "siteId": "harley-street",
+    "id": "room-302",
+    "name": "Room 302"
+  },
+  {
+    "siteId": "harley-street",
+    "id": "room-303",
+    "name": "Room 303"
+  },
+  {
+    "siteId": "canary-wharf",
+    "id": "room-401",
+    "name": "Room 401"
+  },
+  {
+    "siteId": "canary-wharf",
+    "id": "room-402",
+    "name": "Room 402"
+  },
+  {
+    "siteId": "canary-wharf",
+    "id": "room-403",
+    "name": "Room 403"
+  }
+]

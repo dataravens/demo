@@ -1,0 +1,2274 @@
+[
+  {
+    "id": "inv-258",
+    "patientId": "p54",
+    "status": "Draft",
+    "amount": 230,
+    "dueDate": "2024-10-15",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-263",
+    "patientId": "p88",
+    "status": "Draft",
+    "amount": 222,
+    "dueDate": "2024-10-15",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-268",
+    "patientId": "p73",
+    "status": "Sent",
+    "amount": 222,
+    "dueDate": "2024-10-15",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-275",
+    "patientId": "p99",
+    "status": "Sent",
+    "amount": 170,
+    "dueDate": "2024-10-15",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-159",
+    "patientId": "p46",
+    "status": "Sent",
+    "amount": 75,
+    "dueDate": "2024-10-12",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-266",
+    "patientId": "p88",
+    "status": "Sent",
+    "amount": 121,
+    "dueDate": "2024-10-12",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-099",
+    "patientId": "p105",
+    "status": "Sent",
+    "amount": 133,
+    "dueDate": "2024-10-11",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-100",
+    "patientId": "p66",
+    "status": "Sent",
+    "amount": 141,
+    "dueDate": "2024-10-11",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-109",
+    "patientId": "p108",
+    "status": "Sent",
+    "amount": 137,
+    "dueDate": "2024-10-10",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-142",
+    "patientId": "p72",
+    "status": "Draft",
+    "amount": 210,
+    "dueDate": "2024-10-10",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-136",
+    "patientId": "p51",
+    "status": "Sent",
+    "amount": 127,
+    "dueDate": "2024-10-09",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-207",
+    "patientId": "p20",
+    "status": "Sent",
+    "amount": 142,
+    "dueDate": "2024-10-09",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-217",
+    "patientId": "p28",
+    "status": "Sent",
+    "amount": 259,
+    "dueDate": "2024-10-09",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-007",
+    "patientId": "p56",
+    "status": "Sent",
+    "amount": 141,
+    "dueDate": "2024-10-08",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-009",
+    "patientId": "p112",
+    "status": "Draft",
+    "amount": 114,
+    "dueDate": "2024-10-08",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-077",
+    "patientId": "p56",
+    "status": "Sent",
+    "amount": 292,
+    "dueDate": "2024-10-08",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-101",
+    "patientId": "p53",
+    "status": "Draft",
+    "amount": 182,
+    "dueDate": "2024-10-08",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-153",
+    "patientId": "p119",
+    "status": "Draft",
+    "amount": 224,
+    "dueDate": "2024-10-08",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-167",
+    "patientId": "p106",
+    "status": "Draft",
+    "amount": 208,
+    "dueDate": "2024-10-08",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-208",
+    "patientId": "p71",
+    "status": "Sent",
+    "amount": 239,
+    "dueDate": "2024-10-08",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-062",
+    "patientId": "p34",
+    "status": "Draft",
+    "amount": 242,
+    "dueDate": "2024-10-07",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-086",
+    "patientId": "p90",
+    "status": "Draft",
+    "amount": 139,
+    "dueDate": "2024-10-07",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-024",
+    "patientId": "p84",
+    "status": "Draft",
+    "amount": 238,
+    "dueDate": "2024-10-06",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-133",
+    "patientId": "p113",
+    "status": "Draft",
+    "amount": 174,
+    "dueDate": "2024-10-06",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-186",
+    "patientId": "p96",
+    "status": "Sent",
+    "amount": 125,
+    "dueDate": "2024-10-06",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-228",
+    "patientId": "p21",
+    "status": "Draft",
+    "amount": 198,
+    "dueDate": "2024-10-06",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-023",
+    "patientId": "p57",
+    "status": "Draft",
+    "amount": 150,
+    "dueDate": "2024-10-05",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-034",
+    "patientId": "p44",
+    "status": "Draft",
+    "amount": 142,
+    "dueDate": "2024-10-05",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-111",
+    "patientId": "p55",
+    "status": "Sent",
+    "amount": 247,
+    "dueDate": "2024-10-05",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-123",
+    "patientId": "p72",
+    "status": "Sent",
+    "amount": 135,
+    "dueDate": "2024-10-05",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-171",
+    "patientId": "p39",
+    "status": "Draft",
+    "amount": 211,
+    "dueDate": "2024-10-05",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-141",
+    "patientId": "p87",
+    "status": "Sent",
+    "amount": 197,
+    "dueDate": "2024-10-04",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-026",
+    "patientId": "p87",
+    "status": "Sent",
+    "amount": 146,
+    "dueDate": "2024-10-03",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-080",
+    "patientId": "p40",
+    "status": "Draft",
+    "amount": 242,
+    "dueDate": "2024-10-03",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-224",
+    "patientId": "p24",
+    "status": "Sent",
+    "amount": 135,
+    "dueDate": "2024-10-03",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-031",
+    "patientId": "p76",
+    "status": "Draft",
+    "amount": 131,
+    "dueDate": "2024-10-02",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-255",
+    "patientId": "p119",
+    "status": "Sent",
+    "amount": 148,
+    "dueDate": "2024-10-02",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-030",
+    "patientId": "p105",
+    "status": "Draft",
+    "amount": 268,
+    "dueDate": "2024-10-01",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-129",
+    "patientId": "p13",
+    "status": "Sent",
+    "amount": 206,
+    "dueDate": "2024-10-01",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-215",
+    "patientId": "p36",
+    "status": "Sent",
+    "amount": 140,
+    "dueDate": "2024-10-01",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-087",
+    "patientId": "p79",
+    "status": "Sent",
+    "amount": 152,
+    "dueDate": "2024-09-29",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-102",
+    "patientId": "p59",
+    "status": "Sent",
+    "amount": 187,
+    "dueDate": "2024-09-29",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-104",
+    "patientId": "p98",
+    "status": "Draft",
+    "amount": 240,
+    "dueDate": "2024-09-29",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-206",
+    "patientId": "p115",
+    "status": "Sent",
+    "amount": 270,
+    "dueDate": "2024-09-29",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-225",
+    "patientId": "p65",
+    "status": "Sent",
+    "amount": 130,
+    "dueDate": "2024-09-29",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-250",
+    "patientId": "p61",
+    "status": "Sent",
+    "amount": 127,
+    "dueDate": "2024-09-29",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-105",
+    "patientId": "p41",
+    "status": "Draft",
+    "amount": 165,
+    "dueDate": "2024-09-28",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-143",
+    "patientId": "p79",
+    "status": "Sent",
+    "amount": 194,
+    "dueDate": "2024-09-28",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-011",
+    "patientId": "p9",
+    "status": "Sent",
+    "amount": 235,
+    "dueDate": "2024-09-27",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-084",
+    "patientId": "p116",
+    "status": "Draft",
+    "amount": 144,
+    "dueDate": "2024-09-27",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-181",
+    "patientId": "p97",
+    "status": "Sent",
+    "amount": 155,
+    "dueDate": "2024-09-27",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-276",
+    "patientId": "p69",
+    "status": "Sent",
+    "amount": 181,
+    "dueDate": "2024-09-27",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-139",
+    "patientId": "p21",
+    "status": "Sent",
+    "amount": 228,
+    "dueDate": "2024-09-26",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-202",
+    "patientId": "p10",
+    "status": "Sent",
+    "amount": 181,
+    "dueDate": "2024-09-26",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-106",
+    "patientId": "p23",
+    "status": "Sent",
+    "amount": 182,
+    "dueDate": "2024-09-25",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-188",
+    "patientId": "p43",
+    "status": "Sent",
+    "amount": 176,
+    "dueDate": "2024-09-25",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-005",
+    "patientId": "p114",
+    "status": "Sent",
+    "amount": 218,
+    "dueDate": "2024-09-24",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-176",
+    "patientId": "p68",
+    "status": "Sent",
+    "amount": 252,
+    "dueDate": "2024-09-24",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-209",
+    "patientId": "p119",
+    "status": "Draft",
+    "amount": 220,
+    "dueDate": "2024-09-24",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-240",
+    "patientId": "p67",
+    "status": "Sent",
+    "amount": 137,
+    "dueDate": "2024-09-24",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-277",
+    "patientId": "p25",
+    "status": "Sent",
+    "amount": 252,
+    "dueDate": "2024-09-24",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-015",
+    "patientId": "p73",
+    "status": "Draft",
+    "amount": 165,
+    "dueDate": "2024-09-23",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-035",
+    "patientId": "p46",
+    "status": "Sent",
+    "amount": 129,
+    "dueDate": "2024-09-23",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-097",
+    "patientId": "p82",
+    "status": "Draft",
+    "amount": 155,
+    "dueDate": "2024-09-23",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-137",
+    "patientId": "p97",
+    "status": "Sent",
+    "amount": 257,
+    "dueDate": "2024-09-23",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-243",
+    "patientId": "p66",
+    "status": "Draft",
+    "amount": 206,
+    "dueDate": "2024-09-23",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-147",
+    "patientId": "p34",
+    "status": "Sent",
+    "amount": 167,
+    "dueDate": "2024-09-22",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-162",
+    "patientId": "p104",
+    "status": "Sent",
+    "amount": 167,
+    "dueDate": "2024-09-22",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-179",
+    "patientId": "p47",
+    "status": "Sent",
+    "amount": 244,
+    "dueDate": "2024-09-22",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-254",
+    "patientId": "p65",
+    "status": "Draft",
+    "amount": 157,
+    "dueDate": "2024-09-22",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-037",
+    "patientId": "p55",
+    "status": "Sent",
+    "amount": 221,
+    "dueDate": "2024-09-21",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-098",
+    "patientId": "p43",
+    "status": "Draft",
+    "amount": 194,
+    "dueDate": "2024-09-21",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-236",
+    "patientId": "p53",
+    "status": "Draft",
+    "amount": 93,
+    "dueDate": "2024-09-21",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-044",
+    "patientId": "p99",
+    "status": "Sent",
+    "amount": 217,
+    "dueDate": "2024-09-20",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-059",
+    "patientId": "p59",
+    "status": "Sent",
+    "amount": 209,
+    "dueDate": "2024-09-20",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-154",
+    "patientId": "p70",
+    "status": "Draft",
+    "amount": 165,
+    "dueDate": "2024-09-20",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-043",
+    "patientId": "p36",
+    "status": "Draft",
+    "amount": 219,
+    "dueDate": "2024-09-19",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-051",
+    "patientId": "p99",
+    "status": "Sent",
+    "amount": 184,
+    "dueDate": "2024-09-19",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-112",
+    "patientId": "p9",
+    "status": "Sent",
+    "amount": 82,
+    "dueDate": "2024-09-19",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-001",
+    "patientId": "p109",
+    "status": "Sent",
+    "amount": 224,
+    "dueDate": "2024-09-17",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-052",
+    "patientId": "p11",
+    "status": "Sent",
+    "amount": 217,
+    "dueDate": "2024-09-17",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-053",
+    "patientId": "p73",
+    "status": "Draft",
+    "amount": 189,
+    "dueDate": "2024-09-17",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-211",
+    "patientId": "p20",
+    "status": "Paid",
+    "amount": 199,
+    "dueDate": "2024-09-13",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-177",
+    "patientId": "p66",
+    "status": "Paid",
+    "amount": 139,
+    "dueDate": "2024-09-12",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-191",
+    "patientId": "p105",
+    "status": "Paid",
+    "amount": 94,
+    "dueDate": "2024-09-12",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-204",
+    "patientId": "p107",
+    "status": "Paid",
+    "amount": 236,
+    "dueDate": "2024-09-12",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-232",
+    "patientId": "p32",
+    "status": "Paid",
+    "amount": 161,
+    "dueDate": "2024-09-12",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-260",
+    "patientId": "p9",
+    "status": "Paid",
+    "amount": 153,
+    "dueDate": "2024-09-12",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-140",
+    "patientId": "p46",
+    "status": "Paid",
+    "amount": 113,
+    "dueDate": "2024-09-11",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-235",
+    "patientId": "p83",
+    "status": "Paid",
+    "amount": 88,
+    "dueDate": "2024-09-11",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-241",
+    "patientId": "p12",
+    "status": "Paid",
+    "amount": 119,
+    "dueDate": "2024-09-11",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-256",
+    "patientId": "p82",
+    "status": "Paid",
+    "amount": 208,
+    "dueDate": "2024-09-11",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-168",
+    "patientId": "p107",
+    "status": "Paid",
+    "amount": 79,
+    "dueDate": "2024-09-10",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-183",
+    "patientId": "p42",
+    "status": "Paid",
+    "amount": 109,
+    "dueDate": "2024-09-10",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-267",
+    "patientId": "p49",
+    "status": "Paid",
+    "amount": 196,
+    "dueDate": "2024-09-10",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-284",
+    "patientId": "p109",
+    "status": "Overdue",
+    "amount": 92,
+    "dueDate": "2024-09-10",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-066",
+    "patientId": "p34",
+    "status": "Paid",
+    "amount": 164,
+    "dueDate": "2024-09-09",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-085",
+    "patientId": "p89",
+    "status": "Paid",
+    "amount": 184,
+    "dueDate": "2024-09-09",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-090",
+    "patientId": "p13",
+    "status": "Paid",
+    "amount": 192,
+    "dueDate": "2024-09-09",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-122",
+    "patientId": "p13",
+    "status": "Paid",
+    "amount": 192,
+    "dueDate": "2024-09-09",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-238",
+    "patientId": "p80",
+    "status": "Paid",
+    "amount": 223,
+    "dueDate": "2024-09-09",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-060",
+    "patientId": "p32",
+    "status": "Paid",
+    "amount": 195,
+    "dueDate": "2024-09-08",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-079",
+    "patientId": "p108",
+    "status": "Paid",
+    "amount": 244,
+    "dueDate": "2024-09-08",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-150",
+    "patientId": "p80",
+    "status": "Paid",
+    "amount": 228,
+    "dueDate": "2024-09-08",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-190",
+    "patientId": "p112",
+    "status": "Paid",
+    "amount": 203,
+    "dueDate": "2024-09-08",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-205",
+    "patientId": "p35",
+    "status": "Paid",
+    "amount": 76,
+    "dueDate": "2024-09-08",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-230",
+    "patientId": "p27",
+    "status": "Paid",
+    "amount": 81,
+    "dueDate": "2024-09-08",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-239",
+    "patientId": "p77",
+    "status": "Paid",
+    "amount": 227,
+    "dueDate": "2024-09-08",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-193",
+    "patientId": "p62",
+    "status": "Paid",
+    "amount": 153,
+    "dueDate": "2024-09-07",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-245",
+    "patientId": "p42",
+    "status": "Paid",
+    "amount": 179,
+    "dueDate": "2024-09-07",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-004",
+    "patientId": "p54",
+    "status": "Paid",
+    "amount": 133,
+    "dueDate": "2024-09-06",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-061",
+    "patientId": "p36",
+    "status": "Paid",
+    "amount": 149,
+    "dueDate": "2024-09-06",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-067",
+    "patientId": "p44",
+    "status": "Paid",
+    "amount": 138,
+    "dueDate": "2024-09-06",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-082",
+    "patientId": "p83",
+    "status": "Paid",
+    "amount": 96,
+    "dueDate": "2024-09-06",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-151",
+    "patientId": "p53",
+    "status": "Paid",
+    "amount": 137,
+    "dueDate": "2024-09-06",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-246",
+    "patientId": "p105",
+    "status": "Paid",
+    "amount": 266,
+    "dueDate": "2024-09-06",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-249",
+    "patientId": "p36",
+    "status": "Paid",
+    "amount": 104,
+    "dueDate": "2024-09-06",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-063",
+    "patientId": "p89",
+    "status": "Paid",
+    "amount": 199,
+    "dueDate": "2024-09-05",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-096",
+    "patientId": "p82",
+    "status": "Paid",
+    "amount": 88,
+    "dueDate": "2024-09-05",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-187",
+    "patientId": "p1",
+    "status": "Paid",
+    "amount": 145,
+    "dueDate": "2024-09-05",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-221",
+    "patientId": "p3",
+    "status": "Paid",
+    "amount": 189,
+    "dueDate": "2024-09-05",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-222",
+    "patientId": "p31",
+    "status": "Paid",
+    "amount": 149,
+    "dueDate": "2024-09-05",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-270",
+    "patientId": "p81",
+    "status": "Paid",
+    "amount": 164,
+    "dueDate": "2024-09-05",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-003",
+    "patientId": "p77",
+    "status": "Overdue",
+    "amount": 94,
+    "dueDate": "2024-09-04",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-008",
+    "patientId": "p120",
+    "status": "Paid",
+    "amount": 276,
+    "dueDate": "2024-09-04",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-057",
+    "patientId": "p99",
+    "status": "Paid",
+    "amount": 84,
+    "dueDate": "2024-09-04",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-064",
+    "patientId": "p36",
+    "status": "Paid",
+    "amount": 248,
+    "dueDate": "2024-09-04",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-078",
+    "patientId": "p100",
+    "status": "Paid",
+    "amount": 178,
+    "dueDate": "2024-09-04",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-116",
+    "patientId": "p8",
+    "status": "Paid",
+    "amount": 257,
+    "dueDate": "2024-09-04",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-165",
+    "patientId": "p79",
+    "status": "Paid",
+    "amount": 195,
+    "dueDate": "2024-09-04",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-178",
+    "patientId": "p24",
+    "status": "Paid",
+    "amount": 217,
+    "dueDate": "2024-09-04",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-237",
+    "patientId": "p69",
+    "status": "Paid",
+    "amount": 164,
+    "dueDate": "2024-09-04",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-252",
+    "patientId": "p9",
+    "status": "Paid",
+    "amount": 85,
+    "dueDate": "2024-09-04",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-261",
+    "patientId": "p67",
+    "status": "Overdue",
+    "amount": 150,
+    "dueDate": "2024-09-04",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-264",
+    "patientId": "p16",
+    "status": "Paid",
+    "amount": 199,
+    "dueDate": "2024-09-04",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-094",
+    "patientId": "p8",
+    "status": "Paid",
+    "amount": 237,
+    "dueDate": "2024-09-03",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-114",
+    "patientId": "p100",
+    "status": "Paid",
+    "amount": 121,
+    "dueDate": "2024-09-03",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-155",
+    "patientId": "p78",
+    "status": "Paid",
+    "amount": 165,
+    "dueDate": "2024-09-03",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-223",
+    "patientId": "p29",
+    "status": "Paid",
+    "amount": 88,
+    "dueDate": "2024-09-03",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-226",
+    "patientId": "p104",
+    "status": "Paid",
+    "amount": 246,
+    "dueDate": "2024-09-03",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-269",
+    "patientId": "p59",
+    "status": "Overdue",
+    "amount": 273,
+    "dueDate": "2024-09-03",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-049",
+    "patientId": "p103",
+    "status": "Paid",
+    "amount": 189,
+    "dueDate": "2024-09-02",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-075",
+    "patientId": "p85",
+    "status": "Paid",
+    "amount": 252,
+    "dueDate": "2024-09-02",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-231",
+    "patientId": "p68",
+    "status": "Paid",
+    "amount": 270,
+    "dueDate": "2024-09-02",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-272",
+    "patientId": "p7",
+    "status": "Overdue",
+    "amount": 170,
+    "dueDate": "2024-09-02",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-017",
+    "patientId": "p42",
+    "status": "Paid",
+    "amount": 233,
+    "dueDate": "2024-09-01",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-068",
+    "patientId": "p12",
+    "status": "Paid",
+    "amount": 76,
+    "dueDate": "2024-09-01",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-115",
+    "patientId": "p14",
+    "status": "Overdue",
+    "amount": 146,
+    "dueDate": "2024-09-01",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-128",
+    "patientId": "p39",
+    "status": "Overdue",
+    "amount": 155,
+    "dueDate": "2024-09-01",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-146",
+    "patientId": "p71",
+    "status": "Paid",
+    "amount": 173,
+    "dueDate": "2024-09-01",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-197",
+    "patientId": "p55",
+    "status": "Overdue",
+    "amount": 130,
+    "dueDate": "2024-09-01",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-093",
+    "patientId": "p104",
+    "status": "Paid",
+    "amount": 163,
+    "dueDate": "2024-08-31",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-126",
+    "patientId": "p9",
+    "status": "Paid",
+    "amount": 183,
+    "dueDate": "2024-08-31",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-182",
+    "patientId": "p78",
+    "status": "Paid",
+    "amount": 222,
+    "dueDate": "2024-08-31",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-212",
+    "patientId": "p93",
+    "status": "Paid",
+    "amount": 199,
+    "dueDate": "2024-08-31",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-247",
+    "patientId": "p80",
+    "status": "Paid",
+    "amount": 123,
+    "dueDate": "2024-08-31",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-265",
+    "patientId": "p11",
+    "status": "Paid",
+    "amount": 165,
+    "dueDate": "2024-08-31",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-033",
+    "patientId": "p109",
+    "status": "Paid",
+    "amount": 230,
+    "dueDate": "2024-08-30",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-121",
+    "patientId": "p45",
+    "status": "Paid",
+    "amount": 86,
+    "dueDate": "2024-08-30",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-127",
+    "patientId": "p61",
+    "status": "Paid",
+    "amount": 159,
+    "dueDate": "2024-08-30",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-214",
+    "patientId": "p83",
+    "status": "Overdue",
+    "amount": 236,
+    "dueDate": "2024-08-30",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-073",
+    "patientId": "p111",
+    "status": "Paid",
+    "amount": 237,
+    "dueDate": "2024-08-29",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-083",
+    "patientId": "p35",
+    "status": "Overdue",
+    "amount": 282,
+    "dueDate": "2024-08-29",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-274",
+    "patientId": "p86",
+    "status": "Paid",
+    "amount": 140,
+    "dueDate": "2024-08-29",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-279",
+    "patientId": "p95",
+    "status": "Paid",
+    "amount": 183,
+    "dueDate": "2024-08-29",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-055",
+    "patientId": "p110",
+    "status": "Paid",
+    "amount": 232,
+    "dueDate": "2024-08-28",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-166",
+    "patientId": "p73",
+    "status": "Paid",
+    "amount": 182,
+    "dueDate": "2024-08-28",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-227",
+    "patientId": "p56",
+    "status": "Paid",
+    "amount": 210,
+    "dueDate": "2024-08-28",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-234",
+    "patientId": "p85",
+    "status": "Paid",
+    "amount": 163,
+    "dueDate": "2024-08-28",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-027",
+    "patientId": "p54",
+    "status": "Paid",
+    "amount": 181,
+    "dueDate": "2024-08-27",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-058",
+    "patientId": "p33",
+    "status": "Paid",
+    "amount": 107,
+    "dueDate": "2024-08-27",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-071",
+    "patientId": "p65",
+    "status": "Paid",
+    "amount": 292,
+    "dueDate": "2024-08-27",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-124",
+    "patientId": "p101",
+    "status": "Paid",
+    "amount": 219,
+    "dueDate": "2024-08-27",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-160",
+    "patientId": "p86",
+    "status": "Paid",
+    "amount": 173,
+    "dueDate": "2024-08-27",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-163",
+    "patientId": "p56",
+    "status": "Overdue",
+    "amount": 171,
+    "dueDate": "2024-08-27",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-172",
+    "patientId": "p112",
+    "status": "Paid",
+    "amount": 260,
+    "dueDate": "2024-08-27",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-216",
+    "patientId": "p119",
+    "status": "Paid",
+    "amount": 230,
+    "dueDate": "2024-08-27",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-259",
+    "patientId": "p14",
+    "status": "Paid",
+    "amount": 133,
+    "dueDate": "2024-08-27",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-278",
+    "patientId": "p118",
+    "status": "Paid",
+    "amount": 225,
+    "dueDate": "2024-08-27",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-091",
+    "patientId": "p107",
+    "status": "Paid",
+    "amount": 158,
+    "dueDate": "2024-08-26",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-107",
+    "patientId": "p45",
+    "status": "Paid",
+    "amount": 193,
+    "dueDate": "2024-08-26",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-131",
+    "patientId": "p112",
+    "status": "Paid",
+    "amount": 153,
+    "dueDate": "2024-08-26",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-132",
+    "patientId": "p58",
+    "status": "Paid",
+    "amount": 144,
+    "dueDate": "2024-08-26",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-145",
+    "patientId": "p1",
+    "status": "Overdue",
+    "amount": 151,
+    "dueDate": "2024-08-26",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-219",
+    "patientId": "p70",
+    "status": "Paid",
+    "amount": 178,
+    "dueDate": "2024-08-26",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-242",
+    "patientId": "p37",
+    "status": "Paid",
+    "amount": 138,
+    "dueDate": "2024-08-26",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-244",
+    "patientId": "p101",
+    "status": "Paid",
+    "amount": 137,
+    "dueDate": "2024-08-26",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-045",
+    "patientId": "p106",
+    "status": "Paid",
+    "amount": 255,
+    "dueDate": "2024-08-25",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-125",
+    "patientId": "p97",
+    "status": "Paid",
+    "amount": 221,
+    "dueDate": "2024-08-25",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-135",
+    "patientId": "p12",
+    "status": "Paid",
+    "amount": 214,
+    "dueDate": "2024-08-25",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-169",
+    "patientId": "p97",
+    "status": "Paid",
+    "amount": 121,
+    "dueDate": "2024-08-25",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-010",
+    "patientId": "p49",
+    "status": "Paid",
+    "amount": 235,
+    "dueDate": "2024-08-24",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-056",
+    "patientId": "p57",
+    "status": "Paid",
+    "amount": 128,
+    "dueDate": "2024-08-24",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-152",
+    "patientId": "p104",
+    "status": "Paid",
+    "amount": 220,
+    "dueDate": "2024-08-24",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-220",
+    "patientId": "p30",
+    "status": "Overdue",
+    "amount": 286,
+    "dueDate": "2024-08-24",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-016",
+    "patientId": "p49",
+    "status": "Paid",
+    "amount": 200,
+    "dueDate": "2024-08-23",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-028",
+    "patientId": "p61",
+    "status": "Paid",
+    "amount": 185,
+    "dueDate": "2024-08-23",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-054",
+    "patientId": "p79",
+    "status": "Overdue",
+    "amount": 133,
+    "dueDate": "2024-08-23",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-118",
+    "patientId": "p120",
+    "status": "Paid",
+    "amount": 169,
+    "dueDate": "2024-08-23",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-180",
+    "patientId": "p117",
+    "status": "Paid",
+    "amount": 92,
+    "dueDate": "2024-08-23",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-198",
+    "patientId": "p95",
+    "status": "Paid",
+    "amount": 117,
+    "dueDate": "2024-08-23",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-201",
+    "patientId": "p36",
+    "status": "Paid",
+    "amount": 197,
+    "dueDate": "2024-08-23",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-253",
+    "patientId": "p27",
+    "status": "Paid",
+    "amount": 158,
+    "dueDate": "2024-08-23",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-006",
+    "patientId": "p50",
+    "status": "Paid",
+    "amount": 174,
+    "dueDate": "2024-08-22",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-012",
+    "patientId": "p26",
+    "status": "Paid",
+    "amount": 214,
+    "dueDate": "2024-08-22",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-089",
+    "patientId": "p119",
+    "status": "Paid",
+    "amount": 259,
+    "dueDate": "2024-08-22",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-144",
+    "patientId": "p33",
+    "status": "Paid",
+    "amount": 172,
+    "dueDate": "2024-08-22",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-164",
+    "patientId": "p25",
+    "status": "Paid",
+    "amount": 254,
+    "dueDate": "2024-08-22",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-184",
+    "patientId": "p96",
+    "status": "Paid",
+    "amount": 123,
+    "dueDate": "2024-08-22",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-046",
+    "patientId": "p114",
+    "status": "Overdue",
+    "amount": 126,
+    "dueDate": "2024-08-21",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-050",
+    "patientId": "p100",
+    "status": "Overdue",
+    "amount": 195,
+    "dueDate": "2024-08-21",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-065",
+    "patientId": "p21",
+    "status": "Paid",
+    "amount": 104,
+    "dueDate": "2024-08-21",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-076",
+    "patientId": "p8",
+    "status": "Paid",
+    "amount": 247,
+    "dueDate": "2024-08-21",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-175",
+    "patientId": "p63",
+    "status": "Paid",
+    "amount": 269,
+    "dueDate": "2024-08-21",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-199",
+    "patientId": "p72",
+    "status": "Paid",
+    "amount": 234,
+    "dueDate": "2024-08-21",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-213",
+    "patientId": "p28",
+    "status": "Paid",
+    "amount": 204,
+    "dueDate": "2024-08-21",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-273",
+    "patientId": "p101",
+    "status": "Paid",
+    "amount": 238,
+    "dueDate": "2024-08-21",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-018",
+    "patientId": "p38",
+    "status": "Paid",
+    "amount": 201,
+    "dueDate": "2024-08-20",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-072",
+    "patientId": "p59",
+    "status": "Paid",
+    "amount": 111,
+    "dueDate": "2024-08-20",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-088",
+    "patientId": "p32",
+    "status": "Paid",
+    "amount": 221,
+    "dueDate": "2024-08-20",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-200",
+    "patientId": "p35",
+    "status": "Paid",
+    "amount": 264,
+    "dueDate": "2024-08-20",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-257",
+    "patientId": "p20",
+    "status": "Paid",
+    "amount": 141,
+    "dueDate": "2024-08-20",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-262",
+    "patientId": "p109",
+    "status": "Paid",
+    "amount": 85,
+    "dueDate": "2024-08-20",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-282",
+    "patientId": "p76",
+    "status": "Paid",
+    "amount": 83,
+    "dueDate": "2024-08-20",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-025",
+    "patientId": "p83",
+    "status": "Paid",
+    "amount": 181,
+    "dueDate": "2024-08-19",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-036",
+    "patientId": "p74",
+    "status": "Paid",
+    "amount": 134,
+    "dueDate": "2024-08-19",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-157",
+    "patientId": "p78",
+    "status": "Paid",
+    "amount": 160,
+    "dueDate": "2024-08-19",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-196",
+    "patientId": "p51",
+    "status": "Paid",
+    "amount": 253,
+    "dueDate": "2024-08-19",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-229",
+    "patientId": "p44",
+    "status": "Paid",
+    "amount": 254,
+    "dueDate": "2024-08-19",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-002",
+    "patientId": "p58",
+    "status": "Overdue",
+    "amount": 278,
+    "dueDate": "2024-08-18",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-019",
+    "patientId": "p25",
+    "status": "Paid",
+    "amount": 285,
+    "dueDate": "2024-08-18",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-038",
+    "patientId": "p51",
+    "status": "Paid",
+    "amount": 91,
+    "dueDate": "2024-08-18",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-095",
+    "patientId": "p17",
+    "status": "Paid",
+    "amount": 243,
+    "dueDate": "2024-08-18",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-148",
+    "patientId": "p69",
+    "status": "Paid",
+    "amount": 208,
+    "dueDate": "2024-08-18",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-174",
+    "patientId": "p57",
+    "status": "Overdue",
+    "amount": 156,
+    "dueDate": "2024-08-18",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-203",
+    "patientId": "p106",
+    "status": "Paid",
+    "amount": 196,
+    "dueDate": "2024-08-18",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-218",
+    "patientId": "p73",
+    "status": "Paid",
+    "amount": 248,
+    "dueDate": "2024-08-18",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-280",
+    "patientId": "p15",
+    "status": "Paid",
+    "amount": 119,
+    "dueDate": "2024-08-18",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-281",
+    "patientId": "p106",
+    "status": "Paid",
+    "amount": 217,
+    "dueDate": "2024-08-18",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-283",
+    "patientId": "p19",
+    "status": "Paid",
+    "amount": 274,
+    "dueDate": "2024-08-18",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-013",
+    "patientId": "p56",
+    "status": "Paid",
+    "amount": 288,
+    "dueDate": "2024-08-17",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-041",
+    "patientId": "p8",
+    "status": "Paid",
+    "amount": 189,
+    "dueDate": "2024-08-17",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-070",
+    "patientId": "p38",
+    "status": "Paid",
+    "amount": 228,
+    "dueDate": "2024-08-17",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-117",
+    "patientId": "p44",
+    "status": "Paid",
+    "amount": 126,
+    "dueDate": "2024-08-17",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-119",
+    "patientId": "p98",
+    "status": "Paid",
+    "amount": 256,
+    "dueDate": "2024-08-17",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-170",
+    "patientId": "p52",
+    "status": "Paid",
+    "amount": 174,
+    "dueDate": "2024-08-17",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-189",
+    "patientId": "p53",
+    "status": "Paid",
+    "amount": 198,
+    "dueDate": "2024-08-17",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-192",
+    "patientId": "p70",
+    "status": "Paid",
+    "amount": 175,
+    "dueDate": "2024-08-17",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-233",
+    "patientId": "p91",
+    "status": "Paid",
+    "amount": 118,
+    "dueDate": "2024-08-17",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-020",
+    "patientId": "p10",
+    "status": "Paid",
+    "amount": 205,
+    "dueDate": "2024-08-16",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-047",
+    "patientId": "p111",
+    "status": "Paid",
+    "amount": 291,
+    "dueDate": "2024-08-16",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-173",
+    "patientId": "p91",
+    "status": "Paid",
+    "amount": 175,
+    "dueDate": "2024-08-16",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-185",
+    "patientId": "p106",
+    "status": "Paid",
+    "amount": 181,
+    "dueDate": "2024-08-16",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-195",
+    "patientId": "p57",
+    "status": "Overdue",
+    "amount": 203,
+    "dueDate": "2024-08-16",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-251",
+    "patientId": "p89",
+    "status": "Paid",
+    "amount": 257,
+    "dueDate": "2024-08-16",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-110",
+    "patientId": "p2",
+    "status": "Overdue",
+    "amount": 88,
+    "dueDate": "2024-08-15",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-158",
+    "patientId": "p116",
+    "status": "Paid",
+    "amount": 168,
+    "dueDate": "2024-08-15",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-161",
+    "patientId": "p5",
+    "status": "Paid",
+    "amount": 229,
+    "dueDate": "2024-08-15",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-194",
+    "patientId": "p46",
+    "status": "Overdue",
+    "amount": 153,
+    "dueDate": "2024-08-15",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-022",
+    "patientId": "p91",
+    "status": "Paid",
+    "amount": 168,
+    "dueDate": "2024-08-14",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-149",
+    "patientId": "p70",
+    "status": "Paid",
+    "amount": 192,
+    "dueDate": "2024-08-14",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-014",
+    "patientId": "p102",
+    "status": "Paid",
+    "amount": 224,
+    "dueDate": "2024-08-13",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-048",
+    "patientId": "p36",
+    "status": "Paid",
+    "amount": 237,
+    "dueDate": "2024-08-13",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-108",
+    "patientId": "p99",
+    "status": "Paid",
+    "amount": 172,
+    "dueDate": "2024-08-13",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-113",
+    "patientId": "p60",
+    "status": "Paid",
+    "amount": 206,
+    "dueDate": "2024-08-13",
+    "payer": "Vitality"
+  },
+  {
+    "id": "inv-120",
+    "patientId": "p112",
+    "status": "Paid",
+    "amount": 182,
+    "dueDate": "2024-08-13",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-134",
+    "patientId": "p49",
+    "status": "Paid",
+    "amount": 217,
+    "dueDate": "2024-08-13",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-156",
+    "patientId": "p65",
+    "status": "Paid",
+    "amount": 161,
+    "dueDate": "2024-08-13",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-248",
+    "patientId": "p57",
+    "status": "Overdue",
+    "amount": 101,
+    "dueDate": "2024-08-13",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-039",
+    "patientId": "p65",
+    "status": "Paid",
+    "amount": 173,
+    "dueDate": "2024-08-12",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-081",
+    "patientId": "p21",
+    "status": "Paid",
+    "amount": 147,
+    "dueDate": "2024-08-12",
+    "payer": "Cigna"
+  },
+  {
+    "id": "inv-029",
+    "patientId": "p62",
+    "status": "Paid",
+    "amount": 230,
+    "dueDate": "2024-08-11",
+    "payer": "WPA"
+  },
+  {
+    "id": "inv-021",
+    "patientId": "p84",
+    "status": "Paid",
+    "amount": 274,
+    "dueDate": "2024-08-10",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-042",
+    "patientId": "p25",
+    "status": "Overdue",
+    "amount": 262,
+    "dueDate": "2024-08-10",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-074",
+    "patientId": "p20",
+    "status": "Overdue",
+    "amount": 212,
+    "dueDate": "2024-08-09",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-040",
+    "patientId": "p16",
+    "status": "Overdue",
+    "amount": 161,
+    "dueDate": "2024-08-08",
+    "payer": "Bupa"
+  },
+  {
+    "id": "inv-210",
+    "patientId": "p15",
+    "status": "Overdue",
+    "amount": 226,
+    "dueDate": "2024-08-08",
+    "payer": "AXA"
+  },
+  {
+    "id": "inv-092",
+    "patientId": "p50",
+    "status": "Overdue",
+    "amount": 164,
+    "dueDate": "2024-08-07",
+    "payer": "Aviva"
+  },
+  {
+    "id": "inv-138",
+    "patientId": "p101",
+    "status": "Overdue",
+    "amount": 190,
+    "dueDate": "2024-08-07",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-271",
+    "patientId": "p64",
+    "status": "Overdue",
+    "amount": 155,
+    "dueDate": "2024-08-07",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-069",
+    "patientId": "p20",
+    "status": "Overdue",
+    "amount": 96,
+    "dueDate": "2024-08-03",
+    "payer": "NHS"
+  },
+  {
+    "id": "inv-130",
+    "patientId": "p70",
+    "status": "Overdue",
+    "amount": 231,
+    "dueDate": "2024-08-03",
+    "payer": "Simply Health"
+  },
+  {
+    "id": "inv-103",
+    "patientId": "p25",
+    "status": "Overdue",
+    "amount": 147,
+    "dueDate": "2024-07-29",
+    "payer": "Self-pay"
+  },
+  {
+    "id": "inv-032",
+    "patientId": "p49",
+    "status": "Overdue",
+    "amount": 118,
+    "dueDate": "2024-07-28",
+    "payer": "AXA"
+  }
+]
